@@ -4,10 +4,12 @@
 ## Network Engineer
 
  |_Phone_| 267.777.9950 
- |_Email_|  [fabcatalano@pm.me](mailto:fabcatalano@pm.me) 
- |_Address_| 2102 pennsylvania  ave ft.washington, pa 19034 
- |_Web_| [https://github.com/joxonu/FabCatalano/wiki](https://github.com/joxonu/FabCatalano/wiki)
 
+ |_Email_|  [fabcatalano@pm.me](mailto:fabcatalano@pm.me)
+
+ |_Address_| 2102 pennsylvania  ave ft.washington, pa 19034
+
+ |_Web_| [https://github.com/joxonu/FabCatalano/wiki](https://github.com/joxonu/FabCatalano/wiki)
 
 
 ### Objective
@@ -41,7 +43,7 @@
 
 ### Experience
 
-**Nov2015 – Present**
+>**Nov2015 – Present**
 *Senior Network Engineer Comcast Corp., Philadelphia PA*
 - Learned Ansible for automating configuration management tasks, ensuring consistency and efficiency across infrastructure.
 - Experienced in utilizing Git for version control, managing code repositories, and facilitating collaboration in a team environment.
@@ -52,7 +54,7 @@
 - Implemented strategic refactoring and code improvement processes, resulting in a significant reduction in bug incidents and improved overall code quality.
 - Actively contributed to the establishment and enforcement of coding standards, ensuring ongoing efforts to minimize technical debt across development projects.
 
-**Nov2014 – Nov2015** 
+>**Nov2014 – Nov2015** 
 *Network Engineer IBM Corp., Wayne PA*
 - Developed and executed a migration path for unsupported F5 Load Balancers during scheduled maintenance windows, ensuring a seamless transition. Collaborated with application owners to understand product requirements, conducted testing, and ensured zero downtime for clients.
 - Led a DNS migration project to the Akamai FastDNS solution, successfully transitioning from a legacy and unsupported F5 GTM platform. Worked directly with Akamai resources to create configurations and import 20 domains. Developed a script to verify consistency between legacy and Akamai configurations, ensuring accurate and error-free results.
@@ -62,7 +64,7 @@
 - Actively participated in team discussions, providing insights and recommendations for continuous improvement in network engineering processes.
 - Engaged in knowledge-sharing activities, conducting training sessions and workshops to enhance the team's expertise in load balancing and DNS management.
 
-**Feb2010 – Nov2014** 
+>**Feb2010 – Nov2014** 
 *Network Engineer Comcast Corp., Philadelphia PA*
 - Successfully applied and secured a position within the Data Center Network Engineering team, overseeing operations for 4 National Data Centers and multiple APOPs distributed across the United States.
 - Primary responsibility includes the efficient management of Application Delivery Load Balancers, ensuring high availability and optimal performance for critical business applications.
@@ -74,7 +76,7 @@
 - Consistently contribute to the development of best practices and standard operating procedures for the Data Center Network Engineering team.
 - Foster effective communication and collaboration with team members to collectively achieve team goals and objectives.
 
-### Communication
+>### Communication
 
 - Successfully mentored an offshore team, providing guidance and support to ensure a cohesive and high-performing team dynamic.
 - Conducted regular training sessions to improve technical skills, enhance collaboration, and foster a strong sense of teamwork within the offshore development team.
@@ -84,7 +86,7 @@
 - Collaborated with cross-functional teams to gather feedback, iterate on product features, and prioritize enhancements based on stakeholder input.
 - Contributed to the development of user stories, roadmaps, and backlog management to drive product development in line with organizational goals.
 
-### References
+>### References
 
 [Available upon request.]
 
