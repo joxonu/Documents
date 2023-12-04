@@ -15,10 +15,9 @@
 ## Objective
 | Dedicated and solutions-oriented Network Specialist with a proven track record of success in contributing to various corporate IT initiatives. Experienced in planning and implementing networking solutions to directly support business objectives. Seeking opportunities to leverage my skills and expertise in a dynamic and challenging environment. |
 ## KEY SKILLS
-> **Expert Troubleshooter:**
+>**Expert Troubleshooter:**
 - Demonstrated capacity to troubleshoot issues affecting business systems, including LAN, WAN, applications, networks, firewalls, and various other environments.
 - Implemented effective solutions to resolve technical issues promptly, ensuring minimal disruption to business operations.
-
 
 >**Progressive Responsibility:**
 
@@ -26,18 +25,22 @@
 - Adapted to evolving challenges and consistently delivered results in roles of growing complexity.
 
 >**Architectural Expertise:**
+
 - Adept at architecting Load Balancing solutions, ensuring optimal performance and resource utilization.
 - Developed and implemented security policies and procedures to safeguard network integrity and data confidentiality.
 
 >**Documentation and Specifications:**
+
 - Proficient in creating comprehensive project documentation, milestones, and technical/business specifications.
 - Ensured clear and effective communication of project requirements and progress to stakeholders.
 
 >**Project Leadership:**
+
 - Led all stages of new or enhancement project efforts, from requirements definition to design, architecture, testing, and support.
 - Ensured successful project outcomes by managing project teams, timelines, and resources effectively.
 
 >**Outstanding Leadership:**
+
 - Proven leadership abilities with a knack for taking charge of situations and driving solutions or deploying strategic initiatives.
 - Effectively communicated with cross-functional teams to align efforts with overall business goals.
 
@@ -86,7 +89,7 @@
 - Collaborated with cross-functional teams to gather feedback, iterate on product features, and prioritize enhancements based on stakeholder input.
 - Contributed to the development of user stories, roadmaps, and backlog management to drive product development in line with organizational goals.
 
->### References
+## References
 
 [Available upon request.]
 
