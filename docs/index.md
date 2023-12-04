@@ -12,9 +12,9 @@
  |_Web_| [https://github.com/joxonu/FabCatalano/wiki](https://github.com/joxonu/FabCatalano/wiki)
 
 
-### Objective
+## Objective
 | Dedicated and solutions-oriented Network Specialist with a proven track record of success in contributing to various corporate IT initiatives. Experienced in planning and implementing networking solutions to directly support business objectives. Seeking opportunities to leverage my skills and expertise in a dynamic and challenging environment. |
-### KEY SKILLS
+## KEY SKILLS
 > **Expert Troubleshooter:**
 - Demonstrated capacity to troubleshoot issues affecting business systems, including LAN, WAN, applications, networks, firewalls, and various other environments.
 - Implemented effective solutions to resolve technical issues promptly, ensuring minimal disruption to business operations.
