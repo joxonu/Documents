@@ -41,10 +41,10 @@
 - Proven leadership abilities with a knack for taking charge of situations and driving solutions or deploying strategic initiatives.
 - Effectively communicated with cross-functional teams to align efforts with overall business goals.
 
-### Experience
+## Experience
 
 >**Nov2015 – Present**
-*Senior Network Engineer Comcast Corp., Philadelphia PA*
+>*Senior Network Engineer Comcast Corp., Philadelphia PA*
 - Learned Ansible for automating configuration management tasks, ensuring consistency and efficiency across infrastructure.
 - Experienced in utilizing Git for version control, managing code repositories, and facilitating collaboration in a team environment.
 - Skilled in developing and implementing automation solutions to streamline repetitive tasks and enhance overall operational efficiency.
@@ -55,7 +55,7 @@
 - Actively contributed to the establishment and enforcement of coding standards, ensuring ongoing efforts to minimize technical debt across development projects.
 
 >**Nov2014 – Nov2015** 
-*Network Engineer IBM Corp., Wayne PA*
+>*Network Engineer IBM Corp., Wayne PA*
 - Developed and executed a migration path for unsupported F5 Load Balancers during scheduled maintenance windows, ensuring a seamless transition. Collaborated with application owners to understand product requirements, conducted testing, and ensured zero downtime for clients.
 - Led a DNS migration project to the Akamai FastDNS solution, successfully transitioning from a legacy and unsupported F5 GTM platform. Worked directly with Akamai resources to create configurations and import 20 domains. Developed a script to verify consistency between legacy and Akamai configurations, ensuring accurate and error-free results.
 - Authored comprehensive procedures and standards documents, serving as a valuable reference for team members. These documents facilitate consistency and successful deployments, providing guidance for future changes and improvements.
@@ -65,7 +65,7 @@
 - Engaged in knowledge-sharing activities, conducting training sessions and workshops to enhance the team's expertise in load balancing and DNS management.
 
 >**Feb2010 – Nov2014** 
-*Network Engineer Comcast Corp., Philadelphia PA*
+>*Network Engineer Comcast Corp., Philadelphia PA*
 - Successfully applied and secured a position within the Data Center Network Engineering team, overseeing operations for 4 National Data Centers and multiple APOPs distributed across the United States.
 - Primary responsibility includes the efficient management of Application Delivery Load Balancers, ensuring high availability and optimal performance for critical business applications.
 - Secondary responsibilities encompass routing and switching tasks, contributing to the overall stability and reliability of the network infrastructure.
