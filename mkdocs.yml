@@ -1,11 +1,45 @@
 site_name: Resume
 
 #theme:
-#  name: material
+#  name: mkdocs
+#  highlightjs: true
+#  hljs_languages:
+#    - yaml
+#    - rust
 
 theme:
-  name: mkdocs
-  highlightjs: true
-  hljs_languages:
-    - yaml
-    - rust
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    #- navigation.sections
+    - navigation.expand
+    - navigataion.pruning
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - navigation.indexes
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      #primary: teal
+      primary: extra
+      accent: extra
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      #primary: white
+      primary: extra
+      accent: extra
+  icon:
+    tag:
+      icon: material/alert-octagon-outline
