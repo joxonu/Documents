@@ -1,12 +1,5 @@
 site_name: Resume
 
-#theme:
-#  name: mkdocs
-#  highlightjs: true
-#  hljs_languages:
-#    - yaml
-#    - rust
-
 theme:
   name: material
   features:

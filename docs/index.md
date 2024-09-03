@@ -13,7 +13,7 @@
 
 
 ## Objective
-| Dedicated and solutions-oriented Network Specialist with a proven track record of success in contributing to various corporate IT initiatives. Experienced in planning and implementing networking solutions to directly support business objectives. Seeking opportunities to leverage my skills and expertise in a dynamic and challenging environment. |
+Dedicated and solutions-oriented Network Specialist with a proven track record of success in contributing to various corporate IT initiatives. Experienced in planning and implementing networking solutions to directly support business objectives. Seeking opportunities to leverage my skills and expertise in a dynamic and challenging environment.
 
 ## KEY SKILLS
 >**Expert Troubleshooter:**
